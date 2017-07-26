@@ -1,5 +1,5 @@
 version: 0.0
-os: Linux
+os: linux
 files:
-  - source: simpleweb.war
+  - source: target/simpleweb.war
     destination: /var/lib/tomcat8/webapps/
